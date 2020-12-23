@@ -1,0 +1,28 @@
+{
+
+"hello": "HELLO",
+  "choose_lang": "Choose Your Preferred\nLanguage  ",
+  "continue": "Continue",
+  "english": "English",
+  "arabic": "Arabic",
+  "lang": "Language",
+  "quick_payment": "Make quick payments",
+  "you_can_pay": "you can pay your bills or recharge\nyour mobile balance.",
+  "intro2_title": "Invite your friends",
+  "intro2_body": "In order to benefit from the offer of each package, you must add five of your friends within 20 days",
+  "intro3_title": "Receive your money",
+  "intro3_body": "your money will be transferred within 30 days according to the price of the package that you have chosen in each package in order to benefit from the discount",
+  "create_account": "Create Account",
+  "already_have": "Already have an account?",
+  "login": "Login",
+  "sign_in": "Sign in",
+  "email": "Email",
+  "password": "Password",
+  "forget_password": "Forget password",
+  "send": "Send",
+  "by_continuing": "By continuing i confirm that i have read & agree to the ",
+  "terms_conditions": "terms & conditions",
+  "and": " and ",
+  "privacy_policy": "privacy policy"
+}
+
